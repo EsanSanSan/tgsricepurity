@@ -135,7 +135,7 @@ const questions = [
             "Have you ever dropped a slur on campus?",
             "Check this box if it was a slur you weren't allowed to say",
             "Have you ever gotten high/drunk with another student(s), whether it be off or on campus?",
-            "Have you ever broken the law with another student?",
+            "Have you ever broken the law during a school event and/or with another student?",
 
                         "Have you spent all four years of High School at TGS?",
                         "Do you think you've become a better person in those four years?",
