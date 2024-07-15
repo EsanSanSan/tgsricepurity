@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TGS Rice Purity Test</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>The (Unofficial) TGS Rice Purity Test!</h1>
+        <p class="flavor-text">            The TGS Rice Purity test is an opportunity to bond with other current and former TGS students over the expierences TGS has to offer, from the most heartwarming to the most traumatizing experiences. Your score determines how experienced you are, so if you did it, admit it! <br> <br> Questions get more unlikely and more absurd the further down you are on the list. A lower score indicates more experience, so it isn't necessarily bad. <br> Test made by Ethan, please let me know if you have any question suggestions. </p>
+        <form id="purityTest">
+            <div id="questions">
+                <!-- Questions will be dynamically inserted here -->
+            </div>
+            <button type="button" onclick="calculateScore()">Submit >:)</button>
+        </form>
+        <div id="result" class="hidden">
+            <h2>Your Purity Score: <span id="score"></span></h2>
+            <p id="customMessage"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
