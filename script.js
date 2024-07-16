@@ -110,6 +110,7 @@ const questions = [
             "Have you ever played one of Gabe's board games?",
             "Have you ever appeared more than 8 times in a single yearbook?",
             "Have you ever been Senior Willed something?",
+            "Have you ever been assumed to be in a relationship with another student?",
             "Have you ever seriously injured yourself on campus?",
             "Have you ever visited the QT or the Whole Foods on the way home or to school?",
             "Have you ever seen a TGS teacher in public, outside of school?",
