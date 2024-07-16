@@ -150,7 +150,7 @@ const questions = [
 const customMessages = {
     0: "You truly have ascended. Experienced everything that this community has to offer. You have absorbed it into your soul...or something. Either that, or you just checked all the boxes to see what the message would be. I know who you are, fuckin nerd.",
     10: "You've definitely spent the majority of your pre-college life at TGS. You know the ins and outs of this place, and almost everyone you met here will know your name and will remember it for many years. You're also probably an extrovert, and a popular one at that.",
-    20: "You've definitely spent the majority of your pre-college life at TGS. You know the ins and outs of this place, and almost everyone you met here will know your name and will remember it for many years. You're also probably an extrovert, and a popular one at that.",
+    20: "You've definitely spent the majority of your pre-college life at TGS. You know the ins and outs of this place, and almost everyone you met here will know your name and will remember it for many years.",
     30: "You're above average! You may not be at the top of the top in terms of popularity, but when your name comes up in conversation, people always have something to say about you, whether it be good or bad.",
     40: "You've integrated yourself quite well! You may not be the first person people think of when asked to, but you know your way around the place and have all of the social norms memorized",
     50: "You've integrated yourself quite well! You may not be the first person people think of when asked to, but you know your way around the place and have all of the social norms memorized",
