@@ -54,7 +54,7 @@ const questions = [
              "Have you ever attended a Scopa/Scopone exploration?",
                          "Have you ever had the same Math Teacher more than once?",
              "Have you ever attended a JSA/Debate Exploration?",
-             "Have you ever gotten into an argument with other students over what color folder/notebook goes with what subject?",
+             "Have you ever realized that one or more of your friends were actually fake friends?",
              "Have you ever been reprimanded by Mr. Young for any reason?",
             "Have you ever skipped an All-School Meeting?", //GANGSTA 
             "Have you ever gone on your phone when you definitely weren't supposed to?",
