@@ -56,6 +56,7 @@ const questions = [
              "Have you ever attended a JSA/Debate Exploration?",
              "Have you ever realized that one or more of your friends were actually fake friends?",
              "Have you ever been reprimanded by Mr. Young for any reason?",
+            "Have you ever been ambushed by Ms. Eskesen in the halls?",
             "Have you ever skipped an All-School Meeting?", //GANGSTA 
             "Have you ever gone on your phone when you definitely weren't supposed to?",
             "Have you ever eaten in class?",
