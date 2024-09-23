@@ -44,7 +44,7 @@ const questions = [
             "Have you ever called him Gabe instead of Mr. Reyes?",
             "Have you ever called him T-Milly instead of Mr. Milner?",
             "Have you ever cut one of your friends in the lunch line to save time?",
-"Have you eaten lunch with your friends in more than 4 different places?",
+"Have you eaten lunch in more than 5 different places?",
 "Have you ever airdropped/been airdropped something while on the bus?",
 "Have you ever sang karaoke with other students while on a bus?",
 "Have you ever taken an international trip with the school?",
@@ -77,7 +77,7 @@ const questions = [
                                     "Have you ever damaged/broken school property, whether it be intentionally or unintentionally?",
             "Have you ever asked to go to the bathroom so that you could ditch most of class?",
                         "Have you ever drawn on one of Ms. Reynolds' (physics) desks?",
-            "Have you ever talked about a test with other students despite being told not to?",
+            "Have you ever talked/shared info about a test with other students despite being told not to?",
                     "Have you ever intentionally skipped an entire class?",
                         "Have you ever stolen something from the school?",
             "Have you ever intentionally skipped an entire school day? (a non Friday Exploration one, btw)",
@@ -130,6 +130,10 @@ const questions = [
             "Have you ever used the VR headsets in the Fab Lab?",
             "Have you ever joined or viewed the TGS Discord Server?",
             "Have you seen the Mr. Young vs. Mr. Kraus Video?",
+            "Have you ever intentionally ghosted another student?"
+            "Have you ever intentionally pulled an all nighter? (Grad Night doesn't count)"
+            "Have you ever wished you were another student at TGS?"
+            "Have you ever copied someone else's homework, even if you made it look like your own afterwards?"
             "Have you seen a Dancing Dads event?",
             "Have you ever planned a theoretical escape route in case of a school shooter?",
             "Have you ever been stopped by the security guard when driving onto campus?",
