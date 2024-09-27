@@ -208,4 +208,9 @@ function calculateScore() {
     document.getElementById('score').innerText = roundedScore;
     document.getElementById('customMessage').innerText = customMessage;
     document.getElementById('result').classList.remove('hidden');
+
+    // Redirect if score is 100
+    if (roundedScore === 100) {
+        window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; // Replace with the desired website URL
+    }
 }
