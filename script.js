@@ -69,6 +69,8 @@ const questions = [
                         "Have you ever done something romantic/sexual in a public area?",
             " with another student?",             
             "Have you ever cuddled with another student?",
+            "Have you ever attempted to 'reach red'?",
+            "Have you ever SUCCESSFULLY 'reached red'?",
             "Have you ever been late to a single class more than ten times?",
             "Have you ever skipped the assigned English reading and just winged it in class?",
             "Have you ever done your English annotations minutes before the annotation check was due?",
