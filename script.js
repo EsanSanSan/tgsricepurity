@@ -126,7 +126,7 @@ const questions = [
             "Check this box if it was over Taylor Swift.",
             "Have you ever gone out of your way to visit the Farm Animals?",
             "Have you ever had to use the paper cups in the Fab Lab for water?",
-            "Have you ever been inside Chris/Kevin's kitchen?",
+            "Have you ever been inside the gym kitchen?",
             "Have you ever checked out something from the library?",
             "Have you ever been reprimanded/shushed by Mitch?",
                         "Have you ever participated in the conga line during a school dance?",
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const questionsContainer = document.getElementById('questions');
 
     questions.forEach((question, index) => {
-        const questionNumber = index + 1; // Calculate the question number (1-based index)
+        const questionNumber = index + 1; 
         const questionElement = document.createElement('div');
         questionElement.classList.add('question');
         questionElement.innerHTML = `
@@ -212,6 +212,6 @@ function calculateScore() {
 
     // Redirect if score is 100
     if (roundedScore === 100) {
-        window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; // Replace with the desired website URL
+        window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; 
     }
 }
