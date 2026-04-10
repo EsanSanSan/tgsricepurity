@@ -131,7 +131,7 @@ const questions = [
             "Have you ever been reprimanded/shushed by Mitch?",
                         "Have you ever participated in the conga line during a school dance?",
             "Have you ever used the VR headsets in the Fab Lab?",
-            "Have you ever joined or viewed the TGS Discord Server?",
+            "Have you ever been harassed by Tiffany Bialis?",
             "Have you ever intentionally cheated on an test?",
             "Have you seen a Dancing Dads event?",
                         "Have you ever intentionally ghosted another student?",
