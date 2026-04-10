@@ -78,7 +78,7 @@ const questions = [
                         "Have you ever smuggled something onto campus?",
                                     "Have you ever damaged/broken school property, whether it be intentionally or unintentionally?",
             "Have you ever asked to go to the bathroom so that you could ditch most of class?",
-                        "Have you ever drawn on one of Ms. Reynolds' (physics) desks?",
+                        "Have you ever drawn on one of Ms. Reynolds' (physics) (ok i know she quit recently just whoever owns that room now) desks?",
             "Have you ever talked about a test with other students despite being told not to?",
                     "Have you ever intentionally skipped an entire class?",
                         "Have you ever stolen something from the school?",
